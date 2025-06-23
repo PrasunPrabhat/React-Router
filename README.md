@@ -29,7 +29,7 @@ This project was bootstrapped with:
 
 ```bash
 npx create-react-app react-router-demo
-````
+```
 
 React Router was added using:
 
@@ -41,11 +41,11 @@ npm install react-router-dom
 
 ## 📦 Tech Stack
 
-* [React](https://reactjs.org/)
-* [React Router DOM](https://reactrouter.com/en/main)
-* HTML5 / CSS3
-* JavaScript (ES6+)
-* Create React App (CRA)
+- [React](https://reactjs.org/)
+- [React Router DOM](https://reactrouter.com/en/main)
+- HTML5 / CSS3
+- JavaScript (ES6+)
+- Create React App (CRA)
 
 ---
 
@@ -75,11 +75,4 @@ This app was created as a **learning project** to get hands-on experience with *
 
 ## 🙌 Author
 
-Built with ❤️ by \[Prasun Prabhat]
----
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
-```
+## Built with by \[Prasun Prabhat]
